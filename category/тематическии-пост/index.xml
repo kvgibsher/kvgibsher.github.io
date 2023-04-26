@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Тематический пост | Academic</title>
+    <link>https://example.com/category/%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B8-%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <atom:link href="https://example.com/category/%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B8-%D0%BF%D0%BE%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Тематический пост</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Тематический пост</title>
+      <link>https://example.com/category/%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B8-%D0%BF%D0%BE%D1%81%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>Оформление отчета</title>
+      <link>https://example.com/post/post-3/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-3/</guid>
+      <description>&lt;h2 id=&#34;что-же-такое-отчет&#34;&gt;Что же такое отчет?&lt;/h2&gt;
+&lt;p&gt;Отчёт — это структурированное сообщение о результатах вашей работы, которое вы делаете в устной или письменной форме.&lt;/p&gt;
+&lt;p&gt;Обычно в отчете должны присутствовать следующие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Цель&lt;/li&gt;
+&lt;li&gt;Задачи&lt;/li&gt;
+&lt;li&gt;Теоретическое введение&lt;/li&gt;
+&lt;li&gt;Описание выполнения работы&lt;/li&gt;
+&lt;li&gt;Итоги&lt;/li&gt;
+&lt;li&gt;Список литературы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;как-оформлять-отчет&#34;&gt;Как оформлять отчет?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Перед выполнением работы обычно уже есть поставленная цель, поэтому ее и следует записать в отчет.Главное корректно, грамотно и кратко ее сформулировать.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;На основе цели перед Вами выдвигаются (или Вы сами составляете) задачи, которые необходимо выполнить, чтобы достичь желаемого результата.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Задачи лучше написать в отчете под отельными номерами (также можно выделять подпункты, если требуется).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В теоретическом введение надо написать информацию, связанную с Вашей работой. Это могут быть ключевые определения вместе с примерами или же просто описание какого-либо процесса/действия/объекта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Далее Вам нужно описать все этапы работы (иногда давая пояснения), желательно подкреплять эти этапы картинками (их нужно подписать и расставить ссылки на них в нужных местах).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Итоги формулируются в соответствии с целью. Они тоже должны быть достаточно краткими.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Источники, откуда Вы брали информацию для теоретического введения, необходимо указать в конце Вашего отчета (они должны быть оформлены по ГОСТу).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки MarkDown.</title>
+      <link>https://example.com/post/post-2/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post-2/</guid>
+      <description>&lt;h2 id=&#34;язык-разметки-markdown&#34;&gt;Язык разметки MarkDown.&lt;/h2&gt;
+&lt;p&gt;Markdown -  это удобный и быстрый способ разметки текста. Маркдаун используют, если недоступен HTML, а текст нужно сделать читаемым и хотя бы немного размеченным (заголовки, списки, картинки, ссылки).&lt;/p&gt;
+&lt;p&gt;Чтобы создать заголовок, используйте знак #, например:&lt;/p&gt;
+&lt;h1 id=&#34;this-is-heading-1&#34;&gt;This is heading 1&lt;/h1&gt;
+&lt;h2 id=&#34;this-is-heading-2&#34;&gt;This is heading 2&lt;/h2&gt;
+&lt;h3 id=&#34;this-is-heading-3&#34;&gt;This is heading 3&lt;/h3&gt;
+&lt;h4 id=&#34;this-is-heading-4&#34;&gt;This is heading 4&lt;/h4&gt;
+&lt;p&gt;Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки:&lt;/p&gt;
+&lt;p&gt;This text is &lt;strong&gt;bold&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки:&lt;/p&gt;
+&lt;p&gt;This text is &lt;em&gt;italic&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные звездочки:&lt;/p&gt;
+&lt;p&gt;This is text is both &lt;em&gt;&lt;strong&gt;bold and italic&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Блоки цитирования создаются с помощью символа &amp;gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The drought had lasted now for ten million years&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Упорядоченный список можно отформатировать с помощью соответствующих цифр:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First instruction&lt;/li&gt;
+&lt;li&gt;Sub-instruction&lt;/li&gt;
+&lt;li&gt;Sub-instruction&lt;/li&gt;
+&lt;li&gt;Second instruction&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First instruction&lt;/li&gt;
+&lt;li&gt;Second instruction&lt;/li&gt;
+&lt;li&gt;Third instruction&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Неупорядоченный (маркированный) список можно отформатировать с помощью звездочек или тире:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List item 1&lt;/li&gt;
+&lt;li&gt;List item 2&lt;/li&gt;
+&lt;li&gt;List item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List item 1&lt;/li&gt;
+&lt;li&gt;List item A&lt;/li&gt;
+&lt;li&gt;List item B&lt;/li&gt;
+&lt;li&gt;List item 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Синтаксис Markdown для встроенной ссылки состоит из части [link text], представляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла, на который дается ссылка:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;file-name.md&#34;&gt;link text&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;или&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34; title=&#34;Необязательная подсказка&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link text&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Markdown поддерживает как встраивание фрагментов кода в предложение, так и их размещение между предложениями в виде отдельных огражденных блоков. Огражденные блоки кода — это простой способ выделить синтаксис для фрагментов кода.&lt;/p&gt;
+&lt;h2 id=&#34;оформление-изображений-в-markdown&#34;&gt;Оформление изображений в Markdown&lt;/h2&gt;
+&lt;p&gt;В Markdown вставить изображение в документ можно с помощью непосредственного указания адреса изображения. Синтаксис данной команды выглядит
+следующим образом:&lt;/p&gt;
+&lt;p&gt;( воскл. знак. &lt;a href=&#34;https://example.com/%d0%bf%d1%83%d1%82%d1%8c/%d0%ba/%d0%b8%d0%b7%d0%be%d0%b1%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8e.jpg&#34; title=&#34;Необязательная подсказка&#34;&gt;Подпись к рисунку&lt;/a&gt;{ #fig:fig1 width=70% })
+Здесь:&lt;/p&gt;
+&lt;p&gt;• в квадратных скобках указывается подпись к изображению;
+• в круглых скобках указывается URL-адрес или относительный путь изображения, а также (необязательно) всплывающую подсказку, заключённую
+в двойные или одиночные кавычки.
+• в фигурных скобках указывается идентификатор изображения (#fig:fig1)
+для ссылки на него по тексту и размер изображения относительно ширины страницы (width=90%)
+Ссылка на изображение (рис. 4.1) может быть оформлена следующим образом
+(рис. [-@fig:fig1])&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
